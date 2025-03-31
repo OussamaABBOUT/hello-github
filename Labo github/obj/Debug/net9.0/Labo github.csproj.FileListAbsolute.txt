@@ -1,0 +1,14 @@
+E:\assurance qualité\Labo github\Labo github\bin\Debug\net9.0\Labo github.exe
+E:\assurance qualité\Labo github\Labo github\bin\Debug\net9.0\Labo github.deps.json
+E:\assurance qualité\Labo github\Labo github\bin\Debug\net9.0\Labo github.runtimeconfig.json
+E:\assurance qualité\Labo github\Labo github\bin\Debug\net9.0\Labo github.dll
+E:\assurance qualité\Labo github\Labo github\bin\Debug\net9.0\Labo github.pdb
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.GeneratedMSBuildEditorConfig.editorconfig
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.AssemblyInfoInputs.cache
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.AssemblyInfo.cs
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.csproj.CoreCompileInputs.cache
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.dll
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\refint\Labo github.dll
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.pdb
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\Labo github.genruntimeconfig.cache
+E:\assurance qualité\Labo github\Labo github\obj\Debug\net9.0\ref\Labo github.dll
